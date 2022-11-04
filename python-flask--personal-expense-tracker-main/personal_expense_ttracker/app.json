@@ -1,0 +1,7 @@
+
+{
+  "name": "Pet App",
+  "description": "A pet app built with python",
+  "repository": "https://github.com/Naveenrajk/PET/tree/main/python-flask--personal-expense-tracker-main/personal_expense_ttracker",
+  "keywords": ["Flask", "Pet"]
+}
